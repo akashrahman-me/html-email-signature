@@ -33,4 +33,7 @@ We have take a screenshot of each email signature project and included here.
 ### Contact Me
 
 If you have any questions about Email Signature or want to create an email signature for yourself or your company, you can contact me by clicking one of the links below.
+
 [![akash rahman](./assets/facebook.png)](https://www.facebook.com/akashrahman.me)
+[![akash rahman](./assets/gmail.png)](mailto:akashrahman.me@gmail.com)
+[![akash rahman](./assets/linkedin.png)](https://www.linkedin.com/in/akashrahman)
