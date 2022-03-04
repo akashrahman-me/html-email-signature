@@ -1,0 +1,5 @@
+Here's some logo centric concepts, the top right corners of both are going to need something to balance them out, and the picture on the "Jessica Luna" example may need a different location or and it'll need a new location for the Phone/Email/Address.
+
+I made the logo slightly larger then the edge of the signature and figured we could wrap a slight white border around it to make it look like it's popping off the signature.
+
+Do you think you'll be able to do something with these ideas that has individual fully clickable buttons and text that can be copy and pasted? Usable in both Gmail and outlook?
