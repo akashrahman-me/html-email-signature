@@ -30,4 +30,6 @@ We have take a screenshot of each email signature project and included here.
 
 ![akashrahman](./assets/akashrahman.png)
 
-Don't be shy. I am at your service so feel free contact with me.
+### Contact Me
+
+If you have any questions about Email Signature or want to create an email signature for yourself or your company, you can contact me by clicking one of the links below.
