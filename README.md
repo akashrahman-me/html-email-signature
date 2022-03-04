@@ -12,7 +12,7 @@ An HTML template is **a piece of text appearing at the bottom of your online mes
 -   Clickable social icon, website, email, number & others.
 -   _UNIQUE_ and _CREATIVE_ design
 -   Editable professional Html email signature
--   **Free image hosting**
+-   _Free image hosting_
 -   Responsive and device friendly
 -   Net and clean design
 -   100% technical support
@@ -33,3 +33,4 @@ We have take a screenshot of each email signature project and included here.
 ### Contact Me
 
 If you have any questions about Email Signature or want to create an email signature for yourself or your company, you can contact me by clicking one of the links below.
+[![akash rahman](./assets/facebook.png)](https://www.facebook.com/akashrahman.me)
